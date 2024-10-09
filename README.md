@@ -1,2 +1,2 @@
 # Contract-Kitchen-Adapted
-This is for working 
+These are templates modified for app ingestion. Re-formatted to .md
